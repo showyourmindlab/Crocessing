@@ -14,7 +14,5 @@ Written By Jusub Kim (showyourmind@gmail.com) in 2013.
 Glut (for graphics)
 FMOD (for audio)
 SOIL (for image)
-
-You have to download and link them in order to make a crocessing 
-library.  
+ 
 
