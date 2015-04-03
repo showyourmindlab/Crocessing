@@ -1,3 +1,7 @@
+// Crocessing is a C library that enables Processing-style
+// C-Programming for Creative Coding.
+// Written by Jusub Kim (showyourmind@gmail.com), 2013
+
 #include "crocessing.h"
 #include "SOIL.h"
 
