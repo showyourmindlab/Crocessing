@@ -8,7 +8,7 @@ performance, but difficult to program.
 code written in Processing to run as fast as native C code with
 minimal changes. 
 
-Written By Jusub Kim (showyourmind@gmail.com) in 2013.
+Written By Jusub Kim (jusub@sogang.ac.kr) in 2013.
 
 * Crocessing depends on a few other external libraries: 
 Glut (for graphics)
